@@ -10,8 +10,9 @@
 yarn add donny-js-sdk
 ```
 
-```
+```js
 import Donny from 'donny-js-sdk';
+
 const donny = new Donny();
 ```
 
