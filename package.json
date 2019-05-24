@@ -1,12 +1,12 @@
 {
   "name": "donny-js-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://donny.fund",
   "repository": {
     "type": "git",
     "url": "https://github.com/duxilio/donny-js-sdk.git"
   },
-  "description": "Donny js sdk",
+  "description": "The Donny.fund JS library.",
   "main": "dist/donny-sdk.bundle.js",
   "sideEffects": false,
   "author": "Matti van de Weem <matti@duxilio.com> (https://duxilio.com)",

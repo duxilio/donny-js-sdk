@@ -11,7 +11,7 @@ yarn add donny-js-sdk
 ```
 
 ```js
-import Donny from 'donny-js-sdk';
+import Donny from "donny-js-sdk";
 
 const donny = new Donny();
 ```
@@ -19,5 +19,21 @@ const donny = new Donny();
 ## Config
 
 ## Examples
+
+##### Default
+
+```js
+import Donny from "donny-js-sdk";
+
+const donny = new Donny();
+```
+
+##### From default instance
+
+```js
+import Donny from "donny-js-sdk";
+
+const donny = Donny();
+```
 
 ## Contributing
